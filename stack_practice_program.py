@@ -1,3 +1,4 @@
+#This is a stack program
 def isEmpty(stk):
     if stk==[]:
         return True
